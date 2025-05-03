@@ -12,10 +12,4 @@ El programa ofrece las siguientes opciones:
 4.  **Contar cuántas veces se repite una calificación específica ingresada por el usuario:** Después de ingresar una lista de notas, puedes ingresar una calificación y el programa te dirá cuántas veces aparece en la lista.
 5.  **Salir:** Termina la ejecución del programa.
 
-## Cómo usarlo
 
-1.  Guarda el código Python en un archivo (por ejemplo, `gestion_calificaciones.py`).
-2.  Abre una terminal o símbolo del sistema.
-3.  Navega hasta el directorio donde guardaste el archivo.
-4.  Ejecuta el programa con el comando: `python gestion_calificaciones.py`
-5.  Sigue las instrucciones del menú para elegir la acción que deseas realizar.
